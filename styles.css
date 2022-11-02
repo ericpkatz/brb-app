@@ -1,0 +1,21 @@
+body {
+  font-family: verdana;
+}
+
+button {
+  height: 2rem;
+}
+
+.brb {
+  width: 4rem;
+  height: 4rem;
+  background-color: red;
+  border-radius: 50%;
+}
+
+.bgb {
+  width: 4rem;
+  height: 4rem;
+  background-color: green;
+  border-radius: 50%;
+}
